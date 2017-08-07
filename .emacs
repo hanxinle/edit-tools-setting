@@ -1,7 +1,7 @@
-(set-background-color "black") ;; 使用黑色背景
-(set-foreground-color "white") ;; 使用白色前景
-(set-face-foreground 'region "green")  ;; 区域前景颜色设为绿色
-(set-face-background 'region "blue") ;; 区域背景色设为蓝色
+(set-background-color "black")
+(set-foreground-color "white") 
+(set-face-foreground 'region "green")  
+(set-face-background 'region "blue") 
 (tool-bar-mode -1)
 
 (add-to-list 'load-path "~/.emacs.d/auto-complete-mode")
@@ -28,8 +28,15 @@
 (yas-global-mode 1)
 
 
-
 (global-ede-mode 1)
+
+(global-set-key (kbd "<f7>") 'ecb-minor-mode)         ;;ecb mode 
+
+(global-set-key (kbd "C-<left>") 'windmove-left)  
+(global-set-key (kbd "C-<right>") 'windmove-right)  
+(global-set-key (kbd "C-<up>") 'windmove-up)   
+(global-set-key (kbd "C-<down>") 'windmove-down)
+
 
 
 (custom-set-variables
