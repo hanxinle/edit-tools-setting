@@ -2,13 +2,13 @@
 
 ## edit tools 
 ### vim
-- .vimrc  -- settings of vim
+- [vimrc](https://github.com/hanxloop/CodeTools/edit/master/.vimrc) my vim setting
+- [nerdtree](https://github.com/scrooloose/nerdtree)
 
 ### emacs
-- .emacs -- setttings of  emacs 
+- [.emacs](https://github.com/hanxloop/CodeTools/edit/master/.emacs) my emacs setting 
 - slime 
- 
-  ```
+   ```
   sudo apt-get install slime
   ```   
   [quicklisp](https://www.quicklisp.org/beta/) also OK.
