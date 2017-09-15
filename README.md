@@ -3,17 +3,18 @@
 ## edit tools 
 ### vim
 - [vimrc](https://github.com/hanxloop/CodeTools/edit/master/.vimrc) my vim setting
-- [nerdtree](https://github.com/scrooloose/nerdtree)
+- [vundle](https://github.com/VundleVim/Vundle.vim) manage vim packages
+- [nerdtree](https://github.com/scrooloose/nerdtree) scan codes
 
 ### emacs
 - [.emacs](https://github.com/hanxloop/CodeTools/edit/master/.emacs) my emacs setting 
-- slime 
+- [slime](https://github.com/slime/slime) 
    ```
   sudo apt-get install slime
   ```   
-  [quicklisp](https://www.quicklisp.org/beta/) also OK.
+- [quicklisp](https://www.quicklisp.org/beta/) manage lisp packages
 - [auto-complete](https://github.com/auto-complete/auto-complete)
   
-- [ecb](http://ecb.sourceforge.net/)
+- [ecb](http://ecb.sourceforge.net/) scan codes
 
 
