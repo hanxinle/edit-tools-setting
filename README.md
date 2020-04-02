@@ -1,13 +1,12 @@
-# This is the set of my coding tools 
+# Setting of Edit Tools 
 
-## edit tools 
-### vim
+## vim
 - [vimrc](https://github.com/hanxloop/CodeTools/edit/master/.vimrc) my vim setting
 - [vundle](https://github.com/VundleVim/Vundle.vim) manage vim packages
 - [nerdtree](https://github.com/scrooloose/nerdtree) scan codes
 - [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) (YCM)
 
-### emacs
+## emacs
 - [.emacs](https://github.com/hanxloop/CodeTools/edit/master/.emacs) my emacs setting 
 - [slime](https://github.com/slime/slime) 
    ```
